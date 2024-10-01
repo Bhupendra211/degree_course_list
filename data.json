@@ -1,0 +1,1546 @@
+[
+  {
+    "id": 1,
+    "name": "Bachelor of Arts (BA)- Advertising",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 2,
+    "name": "Bachelor of Arts (BA)- Anthropology",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 3,
+    "name": "Bachelor of Arts (BA)- Archaeology",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 4,
+    "name": "Bachelor of Arts (BA)- Business Economics",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 5,
+    "name": "Bachelor of Arts (BA)- Cinema Science",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 6,
+    "name": "Bachelor of Arts (BA)- Communication Studies",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 7,
+    "name": "Bachelor of Arts (BA)- Computer Applications",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 8,
+    "name": "Bachelor of Arts (BA)- Criminology",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 9,
+    "name": "Bachelor of Arts (BA)- Economics",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 10,
+    "name": "Bachelor of Arts (BA)- Education",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 11,
+    "name": "Bachelor of Arts (BA)- Entrepreneurship  and  Small Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 12,
+    "name": "Bachelor of Arts (BA)- Fine Art",
+    "duration": "3 years"
+  },
+  {
+    "id": 13,
+    "name": "Bachelor of Arts (BA)- Geography",
+    "duration": "3 years"
+  },
+  {
+    "id": 14,
+    "name": "Bachelor of Arts (BA)- History",
+    "duration": "3 years"
+  },
+  {
+    "id": 15,
+    "name": "Bachelor of Arts (BA)- Home Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 16,
+    "name": "Bachelor of Arts (BA)- Journalism and Mass Communication",
+    "duration": "3 years"
+  },
+  {
+    "id": 17,
+    "name": "Bachelor of Arts (BA)- Literature",
+    "duration": "3 years"
+  },
+  {
+    "id": 18,
+    "name": "Bachelor of Arts (BA)- Linguistics",
+    "duration": "3 years"
+  },
+  {
+    "id": 19,
+    "name": "Bachelor of Arts (BA)- LLB",
+    "duration": "3 years"
+  },
+  {
+    "id": 20,
+    "name": "Bachelor of Arts (BA)- Mathematics",
+    "duration": "3 years"
+  },
+  {
+    "id": 21,
+    "name": "Bachelor of Arts (BA)- Music",
+    "duration": "3 years"
+  },
+  {
+    "id": 22,
+    "name": "Bachelor of Arts (BA)- Philosophy",
+    "duration": "3 years"
+  },
+  {
+    "id": 23,
+    "name": "Bachelor of Arts (BA)- Physical Education",
+    "duration": "3 years"
+  },
+  {
+    "id": 24,
+    "name": "Bachelor of Arts (BA)- Physical Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 25,
+    "name": "Bachelor of Arts (BA)- Psychology",
+    "duration": "3 years"
+  },
+  {
+    "id": 26,
+    "name": "Bachelor of Arts (BA)- Public Administration",
+    "duration": "3 years"
+  },
+  {
+    "id": 27,
+    "name": "Bachelor of Arts (BA)- Rural Studies",
+    "duration": "3 years"
+  },
+  {
+    "id": 28,
+    "name": "Bachelor of Arts (BA)- Social Work",
+    "duration": "3 years"
+  },
+  {
+    "id": 29,
+    "name": "Bachelor of Arts (BA)- Sociology",
+    "duration": "3 years"
+  },
+  {
+    "id": 30,
+    "name": "Bachelor of Arts (BA)- Statistics",
+    "duration": "3 years"
+  },
+  {
+    "id": 31,
+    "name": "Bachelor of Arts (BA)- Theology",
+    "duration": "3 years"
+  },
+  {
+    "id": 32,
+    "name": "Bachelor of Science (B.Sc)- Aeronautics",
+    "duration": "3 years"
+  },
+  {
+    "id": 33,
+    "name": "Bachelor of Science (B.Sc)- Agriculture",
+    "duration": "3 years"
+  },
+  {
+    "id": 34,
+    "name": "Bachelor of Science (B.Sc)- Anatomy",
+    "duration": "3 years"
+  },
+  {
+    "id": 35,
+    "name": "Bachelor of Science (B.Sc)- Anesthesia",
+    "duration": "3 years"
+  },
+  {
+    "id": 36,
+    "name": "Bachelor of Science (B.Sc)- Animation",
+    "duration": "3 years"
+  },
+  {
+    "id": 37,
+    "name": "Bachelor of Science (B.Sc)- Anthropology",
+    "duration": "3 years"
+  },
+  {
+    "id": 38,
+    "name": "Bachelor of Science (B.Sc)- Aviation",
+    "duration": "3 years"
+  },
+  {
+    "id": 39,
+    "name": "Bachelor of Science (B.Sc)- Biochemistry",
+    "duration": "3 years"
+  },
+  {
+    "id": 40,
+    "name": "Bachelor of Science (B.Sc)- Biology",
+    "duration": "3 years"
+  },
+  {
+    "id": 41,
+    "name": "Bachelor of Science (B.Sc)- Biotechnology",
+    "duration": "3 years"
+  },
+  {
+    "id": 42,
+    "name": "Bachelor of Science (B.Sc)- Botany",
+    "duration": "3 years"
+  },
+  {
+    "id": 43,
+    "name": "Bachelor of Science (B.Sc)- Cardiology",
+    "duration": "3 years"
+  },
+  {
+    "id": 44,
+    "name": "Bachelor of Science (B.Sc)- Chemistry",
+    "duration": "3 years"
+  },
+  {
+    "id": 45,
+    "name": "Bachelor of Science (B.Sc)- Clinical Research",
+    "duration": "3 years"
+  },
+  {
+    "id": 46,
+    "name": "Bachelor of Science (B.Sc)- Computer Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 47,
+    "name": "Bachelor of Science (B.Sc)- Economics",
+    "duration": "3 years"
+  },
+  {
+    "id": 48,
+    "name": "Bachelor of Science (B.Sc)- Environmental Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 49,
+    "name": "Bachelor of Science (B.Sc)- Fashion Designing",
+    "duration": "3 years"
+  },
+  {
+    "id": 50,
+    "name": "Bachelor of Science (B.Sc)- Food Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 51,
+    "name": "Bachelor of Science (B.Sc)- Forestry",
+    "duration": "3 years"
+  },
+  {
+    "id": 52,
+    "name": "Bachelor of Science (B.Sc)- Geography",
+    "duration": "3 years"
+  },
+  {
+    "id": 53,
+    "name": "Bachelor of Science (B.Sc)- Geology",
+    "duration": "3 years"
+  },
+  {
+    "id": 54,
+    "name": "Bachelor of Science (B.Sc)- Healthcare Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 55,
+    "name": "Bachelor of Science (B.Sc)- Home Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 56,
+    "name": "Bachelor of Science (B.Sc)- Hospitality Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 57,
+    "name": "Bachelor of Science (B.Sc)- Information Technology (IT)",
+    "duration": "3 years"
+  },
+  {
+    "id": 58,
+    "name": "Bachelor of Science (B.Sc)- Life Sciences",
+    "duration": "3 years"
+  },
+  {
+    "id": 59,
+    "name": "Bachelor of Science (B.Sc)- Mathematics",
+    "duration": "3 years"
+  },
+  {
+    "id": 60,
+    "name": "Bachelor of Science (B.Sc)- Microbiology",
+    "duration": "3 years"
+  },
+  {
+    "id": 61,
+    "name": "Bachelor of Science (B.Sc)- Molecular Biology",
+    "duration": "3 years"
+  },
+  {
+    "id": 62,
+    "name": "Bachelor of Science (B.Sc)- Nautical Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 63,
+    "name": "Bachelor of Science (B.Sc)- Nursing",
+    "duration": "3 years"
+  },
+  {
+    "id": 64,
+    "name": "Bachelor of Science (B.Sc)- Nutrition and Dietetics",
+    "duration": "3 years"
+  },
+  {
+    "id": 65,
+    "name": "Bachelor of Science (B.Sc)- Physics",
+    "duration": "3 years"
+  },
+  {
+    "id": 66,
+    "name": "Bachelor of Science (B.Sc)- Product Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 67,
+    "name": "Bachelor of Science (B.Sc)- Psychology",
+    "duration": "3 years"
+  },
+  {
+    "id": 68,
+    "name": "Bachelor of Science (B.Sc)- Radiology",
+    "duration": "3 years"
+  },
+  {
+    "id": 69,
+    "name": "Bachelor of Science (B.Sc)- Statistics",
+    "duration": "3 years"
+  },
+  {
+    "id": 70,
+    "name": "Bachelor of Science (B.Sc)- Visual Communication",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 71,
+    "name": "Bachelor of Science (B.Sc)- Zoology",
+    "duration": "3 years"
+  },
+  {
+    "id": 72,
+    "name": "Bachelor of Commerce (B.Com)- Cost accounting",
+    "duration": "3 years"
+  },
+  {
+    "id": 73,
+    "name": "Bachelor of Commerce (B.Com)- Foreign trade",
+    "duration": "3 years"
+  },
+  {
+    "id": 74,
+    "name": "Bachelor of Commerce (B.Com)- E-commerce",
+    "duration": "3 years"
+  },
+  {
+    "id": 75,
+    "name": "Bachelor of Commerce (B.Com)- Business economics/law/finance",
+    "duration": "3 years"
+  },
+  {
+    "id": 76,
+    "name": "Bachelor of Commerce (B.Com)- Taxation",
+    "duration": "3 years"
+  },
+  {
+    "id": 77,
+    "name": "Bachelor of Commerce (B.Com)- Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 78,
+    "name": "Bachelor of Commerce (B.Com)- Advertising",
+    "duration": "3 years"
+  },
+  {
+    "id": 79,
+    "name": "Bachelor of Commerce (B.Com)- Sales management",
+    "duration": "3 years"
+  },
+  {
+    "id": 80,
+    "name": "Bachelor of Commerce (B.Com)- Office management",
+    "duration": "3 years"
+  },
+  {
+    "id": 81,
+    "name": " Bachelor of Engg./Tech (B.Tech)- Aeronautical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 82,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Aerospace Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 83,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Applied Electronics & Instrumentation",
+    "duration": "3 years"
+  },
+  {
+    "id": 84,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Agricultural Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 85,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Automobile Engg",
+    "duration": "3 years"
+  },
+  {
+    "id": 86,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Bio Chemical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 87,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Bio Medical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 88,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Bio Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 89,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Bioinformatics",
+    "duration": "3 years"
+  },
+  {
+    "id": 90,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Chemical & Alcohol Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 91,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Chemical  Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 92,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Civil Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 93,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Computer Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 94,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Computer Science & Engg",
+    "duration": "3 years"
+  },
+  {
+    "id": 95,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electrical & Electronics Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 96,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electrical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 97,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electrical & Communication Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 98,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electrical & Instrumentation Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 99,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electrical & Telecom Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 100,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electronics Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 101,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Electronics Instrumentation & Control",
+    "duration": "3 years"
+  },
+  {
+    "id": 102,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Environmental Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 103,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Energy Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 104,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Fire & Safety Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 105,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Food Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 106,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Geo-Informatics Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 107,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Geo-Science Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 108,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Genetic Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 109,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Industrial Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 110,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Industrial Production Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 111,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Information Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 112,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Instrumentation & Control",
+    "duration": "3 years"
+  },
+  {
+    "id": 113,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Instrumentation Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 114,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Leather Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 115,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Man Made Fibre Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 116,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Manufacturing Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 117,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Marine Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 118,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Material Science",
+    "duration": "3 years"
+  },
+  {
+    "id": 119,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Mechanical & Industrial Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 120,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Mechanical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 121,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Metallurgical Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 122,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Mining Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 123,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Mechatronics Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 124,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Naval Architecture",
+    "duration": "3 years"
+  },
+  {
+    "id": 125,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Nuclear Science and Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 126,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Oil Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 127,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Ocean Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 128,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Paint Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 129,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Plastic Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 130,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Production & Industrial Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 131,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Production Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 132,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Pharmaceutical Technology/B-pharma",
+    "duration": "3 years"
+  },
+  {
+    "id": 133,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Software Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 134,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Textile Chemistry",
+    "duration": "3 years"
+  },
+  {
+    "id": 135,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Textile Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 136,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Textile Technology",
+    "duration": "3 years"
+  },
+  {
+    "id": 137,
+    "name": "Bachelor of Engg./Tech (B.Tech)- Transportation Engineering",
+    "duration": "3 years"
+  },
+  {
+    "id": 138,
+    "name": "Bachelor of Management Studies (BMS)- Accounting",
+    "duration": "3 years"
+  },
+  {
+    "id": 139,
+    "name": "Bachelor of Management Studies (BMS)- Airport Capacity Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 140,
+    "name": "Bachelor of Management Studies (BMS)- Analytics and Big Data",
+    "duration": "3 years"
+  },
+  {
+    "id": 141,
+    "name": "Bachelor of Management Studies (BMS)- Aviation Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 142,
+    "name": "Bachelor of Management Studies (BMS)- Big Data Analytics and Mining",
+    "duration": "3 years"
+  },
+  {
+    "id": 143,
+    "name": "Bachelor of Management Studies (BMS)- Computer Application",
+    "duration": "3 years"
+  },
+  {
+    "id": 144,
+    "name": "Bachelor of Management Studies (BMS)- Digital Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 145,
+    "name": "Bachelor of Management Studies (BMS)- Digital Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 146,
+    "name": "Bachelor of Management Studies (BMS)- Digital Media Laws",
+    "duration": "3 years"
+  },
+  {
+    "id": 147,
+    "name": "Bachelor of Management Studies (BMS)- Entrepreneurship",
+    "duration": "3 years"
+  },
+  {
+    "id": 148,
+    "name": "Bachelor of Management Studies (BMS)- Events Public Relations and Corporate Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 149,
+    "name": "Bachelor of Management Studies (BMS)- Finance",
+    "duration": "3 years"
+  },
+  {
+    "id": 150,
+    "name": "Bachelor of Management Studies (BMS)- Foreign Trade",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 151,
+    "name": "Bachelor of Management Studies (BMS)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 152,
+    "name": "Bachelor of Management Studies (BMS)- Green Energy and Sustainability",
+    "duration": "3 years"
+  },
+  {
+    "id": 153,
+    "name": "Bachelor of Management Studies (BMS)- Green Energy Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 154,
+    "name": "Bachelor of Management Studies (BMS)- Hospital & Healthcare",
+    "duration": "3 years"
+  },
+  {
+    "id": 155,
+    "name": "Bachelor of Management Studies (BMS)- Hospitality",
+    "duration": "3 years"
+  },
+  {
+    "id": 156,
+    "name": "Bachelor of Management Studies (BMS)- Human resource management",
+    "duration": "3 years"
+  },
+  {
+    "id": 157,
+    "name": "Bachelor of Management Studies (BMS)- Information Systems",
+    "duration": "3 years"
+  },
+  {
+    "id": 158,
+    "name": "Bachelor of Management Studies (BMS)- Integrated MBA",
+    "duration": "3 years"
+  },
+  {
+    "id": 159,
+    "name": "Bachelor of Management Studies (BMS)- International Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 160,
+    "name": "Bachelor of Management Studies (BMS)- International Trade Negotiations",
+    "duration": "3 years"
+  },
+  {
+    "id": 161,
+    "name": "Bachelor of Management Studies (BMS)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 162,
+    "name": "Bachelor of Management Studies (BMS)- Logistics Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 163,
+    "name": "Bachelor of Management Studies (BMS)- Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 164,
+    "name": "Bachelor of Management Studies (BMS)- BBA in Marketing and Analytics",
+    "duration": "3 years"
+  },
+  {
+    "id": 165,
+    "name": "Bachelor of Management Studies (BMS)- Marketing Campaigns and Strategic Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 166,
+    "name": "Bachelor of Management Studies (BMS)- Media Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 167,
+    "name": "Bachelor of Management Studies (BMS)- Oil and Gas Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 168,
+    "name": "Bachelor of Management Studies (BMS)- Oil and Gas Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 169,
+    "name": "Bachelor of Management Studies (BMS)- Petroleum Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 170,
+    "name": "Bachelor of Management Studies (BMS)- Regional Economic Integration",
+    "duration": "3 years"
+  },
+  {
+    "id": 171,
+    "name": "Bachelor of Management Studies (BMS)- Retail",
+    "duration": "3 years"
+  },
+  {
+    "id": 172,
+    "name": "Bachelor of Management Studies (BMS)- Service Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 173,
+    "name": "Bachelor of Management Studies (BMS)- Service Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 174,
+    "name": "Bachelor of Management Studies (BMS)- Social Media",
+    "duration": "3 years"
+  },
+  {
+    "id": 175,
+    "name": "Bachelor of Management Studies (BMS)- Sports Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 176,
+    "name": "Bachelor of Management Studies (BMS)- Supply Chain",
+    "duration": "3 years"
+  },
+  {
+    "id": 177,
+    "name": "Bachelor of Management Studies (BMS)- Sustainable Development",
+    "duration": "3 years"
+  },
+  {
+    "id": 178,
+    "name": "Bachelor of Management Studies (BMS)- Tourism management",
+    "duration": "3 years"
+  },
+  {
+    "id": 179,
+    "name": "Bachelor of Management Studies (BMS)- Travel and Tour Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 180,
+    "name": "Bachelor of Management Studies (BBA)- Accounting",
+    "duration": "3 years"
+  },
+  {
+    "id": 181,
+    "name": "Bachelor of Management Studies (BBA)- Airport Capacity Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 182,
+    "name": "Bachelor of Management Studies (BBA)- Analytics and Big Data",
+    "duration": "3 years"
+  },
+  {
+    "id": 183,
+    "name": "Bachelor of Management Studies (BBA)- Aviation Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 184,
+    "name": "Bachelor of Management Studies (BBA)- Big Data Analytics and Mining",
+    "duration": "3 years"
+  },
+  {
+    "id": 185,
+    "name": "Bachelor of Management Studies (BBA)- Computer Application",
+    "duration": "3 years"
+  },
+  {
+    "id": 186,
+    "name": "Bachelor of Management Studies (BBA)- Digital Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 187,
+    "name": "Bachelor of Management Studies (BBA)- Digital Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 188,
+    "name": "Bachelor of Management Studies (BBA)- Digital Media Laws",
+    "duration": "3 years"
+  },
+  {
+    "id": 189,
+    "name": "Bachelor of Management Studies (BBA)- Entrepreneurship",
+    "duration": "3 years"
+  },
+  {
+    "id": 190,
+    "name": "Bachelor of Management Studies (BBA)- Events Public Relations and Corporate Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 191,
+    "name": "Bachelor of Management Studies (BBA)- Finance",
+    "duration": "3 years"
+  },
+  {
+    "id": 192,
+    "name": "Bachelor of Management Studies (BBA)- Foreign Trade",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 193,
+    "name": "Bachelor of Management Studies (BBA)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 194,
+    "name": "Bachelor of Management Studies (BBA)- Green Energy and Sustainability",
+    "duration": "3 years"
+  },
+  {
+    "id": 195,
+    "name": "Bachelor of Management Studies (BBA)- Green Energy Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 196,
+    "name": "Bachelor of Management Studies (BBA)- Hospital & Healthcare",
+    "duration": "3 years"
+  },
+  {
+    "id": 197,
+    "name": "Bachelor of Management Studies (BBA)- Hospitality",
+    "duration": "3 years"
+  },
+  {
+    "id": 198,
+    "name": "Bachelor of Management Studies (BBA)- Human resource management",
+    "duration": "3 years"
+  },
+  {
+    "id": 199,
+    "name": "Bachelor of Management Studies (BBA)- Information Systems",
+    "duration": "3 years"
+  },
+  {
+    "id": 200,
+    "name": "Bachelor of Management Studies (BBA)- Integrated MBA",
+    "duration": "3 years"
+  },
+  {
+    "id": 201,
+    "name": "Bachelor of Management Studies (BBA)- International Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 202,
+    "name": "Bachelor of Management Studies (BBA)- International Trade Negotiations",
+    "duration": "3 years"
+  },
+  {
+    "id": 203,
+    "name": "Bachelor of Management Studies (BBA)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 204,
+    "name": "Bachelor of Management Studies (BBA)- Logistics Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 205,
+    "name": "Bachelor of Management Studies (BBA)- Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 206,
+    "name": "Bachelor of Management Studies (BBA)- BBA in Marketing and Analytics",
+    "duration": "3 years"
+  },
+  {
+    "id": 207,
+    "name": "Bachelor of Management Studies (BBA)- Marketing Campaigns and Strategic Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 208,
+    "name": "Bachelor of Management Studies (BBA)- Media Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 209,
+    "name": "Bachelor of Management Studies (BBA)- Oil and Gas Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 210,
+    "name": "Bachelor of Management Studies (BBA)- Oil and Gas Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 211,
+    "name": "Bachelor of Management Studies (BBA)- Petroleum Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 212,
+    "name": "Bachelor of Management Studies (BBA)- Regional Economic Integration",
+    "duration": "3 years"
+  },
+  {
+    "id": 213,
+    "name": "Bachelor of Management Studies (BBA)- Retail",
+    "duration": "3 years"
+  },
+  {
+    "id": 214,
+    "name": "Bachelor of Management Studies (BBA)- Service Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 215,
+    "name": "Bachelor of Management Studies (BBA)- Service Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 216,
+    "name": "Bachelor of Management Studies (BBA)- Social Media",
+    "duration": "3 years"
+  },
+  {
+    "id": 217,
+    "name": "Bachelor of Management Studies (BBA)- Sports Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 218,
+    "name": "Bachelor of Management Studies (BBA)- Supply Chain",
+    "duration": "3 years"
+  },
+  {
+    "id": 219,
+    "name": "Bachelor of Management Studies (BBA)- Sustainable Development",
+    "duration": "3 years"
+  },
+  {
+    "id": 220,
+    "name": "Bachelor of Management Studies (BBA)- Tourism management",
+    "duration": "3 years"
+  },
+  {
+    "id": 221,
+    "name": "Bachelor of Management Studies (BBA)- Travel and Tour Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 222,
+    "name": "Bachelor of Business Studies (BBS)- Accounting",
+    "duration": "3 years"
+  },
+  {
+    "id": 223,
+    "name": "Bachelor of Business Studies (BBS)- Airport Capacity Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 224,
+    "name": "Bachelor of Business Studies (BBS)- Analytics and Big Data",
+    "duration": "3 years"
+  },
+  {
+    "id": 225,
+    "name": "Bachelor of Business Studies (BBS)- Aviation Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 226,
+    "name": "Bachelor of Business Studies (BBS)- Big Data Analytics and Mining",
+    "duration": "3 years"
+  },
+  {
+    "id": 227,
+    "name": "Bachelor of Business Studies (BBS)- Computer Application",
+    "duration": "3 years"
+  },
+  {
+    "id": 228,
+    "name": "Bachelor of Business Studies (BBS)- Digital Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 229,
+    "name": "Bachelor of Business Studies (BBS)- Digital Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 230,
+    "name": "Bachelor of Business Studies (BBS)- Digital Media Laws",
+    "duration": "3 years"
+  },
+  {
+    "id": 231,
+    "name": "Bachelor of Business Studies (BBS)- Entrepreneurship",
+    "duration": "3 years"
+  },
+  {
+    "id": 232,
+    "name": "Bachelor of Business Studies (BBS)- Events Public Relations and Corporate Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 233,
+    "name": "Bachelor of Business Studies (BBS)- Finance",
+    "duration": "3 years"
+  },
+  {
+    "id": 234,
+    "name": "Bachelor of Business Studies (BBS)- Foreign Trade",
+    "duration": "3 years"
+  },
+
+  {
+    "id": 235,
+    "name": "Bachelor of Business Studies (BBS)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 236,
+    "name": "Bachelor of Business Studies (BBS)- Green Energy and Sustainability",
+    "duration": "3 years"
+  },
+  {
+    "id": 237,
+    "name": "Bachelor of Business Studies (BBS)- Green Energy Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 238,
+    "name": "Bachelor of Business Studies (BBS)- Hospital & Healthcare",
+    "duration": "3 years"
+  },
+  {
+    "id": 239,
+    "name": "Bachelor of Business Studies (BBS)- Hospitality",
+    "duration": "3 years"
+  },
+  {
+    "id": 240,
+    "name": "Bachelor of Business Studies (BBS)- Human resource management",
+    "duration": "3 years"
+  },
+  {
+    "id": 241,
+    "name": "Bachelor of Business Studies (BBS)- Information Systems",
+    "duration": "3 years"
+  },
+  {
+    "id": 242,
+    "name": "Bachelor of Business Studies (BBS)- Integrated MBA",
+    "duration": "3 years"
+  },
+  {
+    "id": 243,
+    "name": "Bachelor of Business Studies (BBS)- International Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 244,
+    "name": "Bachelor of Business Studies (BBS)- International Trade Negotiations",
+    "duration": "3 years"
+  },
+  {
+    "id": 245,
+    "name": "Bachelor of Business Studies (BBS)- Global business management",
+    "duration": "3 years"
+  },
+  {
+    "id": 246,
+    "name": "Bachelor of Business Studies (BBS)- Logistics Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 247,
+    "name": "Bachelor of Business Studies (BBS)- Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 248,
+    "name": "Bachelor of Business Studies (BBS)- BBA in Marketing and Analytics",
+    "duration": "3 years"
+  },
+  {
+    "id": 249,
+    "name": "Bachelor of Business Studies (BBS)- Marketing Campaigns and Strategic Communications",
+    "duration": "3 years"
+  },
+  {
+    "id": 250,
+    "name": "Bachelor of Business Studies (BBS)- Media Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 251,
+    "name": "Bachelor of Business Studies (BBS)- Oil and Gas Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 252,
+    "name": "Bachelor of Business Studies (BBS)- Oil and Gas Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 253,
+    "name": "Bachelor of Business Studies (BBS)- Petroleum Business",
+    "duration": "3 years"
+  },
+  {
+    "id": 254,
+    "name": "Bachelor of Business Studies (BBS)- Regional Economic Integration",
+    "duration": "3 years"
+  },
+  {
+    "id": 255,
+    "name": "Bachelor of Business Studies (BBS)- Retail",
+    "duration": "3 years"
+  },
+  {
+    "id": 256,
+    "name": "Bachelor of Business Studies (BBS)- Service Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 257,
+    "name": "Bachelor of Business Studies (BBS)- Service Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 258,
+    "name": "Bachelor of Business Studies (BBS)- Social Media",
+    "duration": "3 years"
+  },
+  {
+    "id": 259,
+    "name": "Bachelor of Business Studies (BBS)- Sports Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 260,
+    "name": "Bachelor of Business Studies (BBS)- Supply Chain",
+    "duration": "3 years"
+  },
+  {
+    "id": 261,
+    "name": "Bachelor of Business Studies (BBS)- Sustainable Development",
+    "duration": "3 years"
+  },
+  {
+    "id": 262,
+    "name": "Bachelor of Business Studies (BBS)- Tourism management",
+    "duration": "3 years"
+  },
+  {
+    "id": 263,
+    "name": "Bachelor of Business Studies (BBS)- Travel and Tour Operations",
+    "duration": "3 years"
+  },
+  {
+    "id": 264,
+    "name": "Bachelor of Medicine (MBBS)",
+    "duration": "4-5 years"
+  },
+  {
+    "id": 265,
+    "name": "Bachelor of Dental Surgery (BDS)",
+    "duration": "5 years"
+  },
+  {
+    "id": 266,
+    "name": "Bachelor of Design (Bdes)- Accessory Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 267,
+    "name": "Bachelor of Design (Bdes)- Animation and VFX",
+    "duration": "3 years"
+  },
+  {
+    "id": 268,
+    "name": "Bachelor of Design (Bdes)- Animation Film Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 269,
+    "name": "Bachelor of Design (Bdes)- Ceramic and Glass Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 270,
+    "name": "Bachelor of Design (Bdes)- Communication Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 271,
+    "name": "Bachelor of Design (Bdes)- Exhibition Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 272,
+    "name": "Bachelor of Design (Bdes)- Fashion Communication & Styling",
+    "duration": "3 years"
+  },
+  {
+    "id": 273,
+    "name": "Bachelor of Design (Bdes)- Fashion Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 274,
+    "name": "Bachelor of Design (Bdes)- Film and Video Communication",
+    "duration": "3 years"
+  },
+  {
+    "id": 275,
+    "name": "Bachelor of Design (Bdes)- Footwear Designs and Production",
+    "duration": "3 years"
+  },
+  {
+    "id": 276,
+    "name": "Bachelor of Design (Bdes)- Furniture and Interior Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 277,
+    "name": "Bachelor of Design (Bdes)- Graphic Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 278,
+    "name": "Bachelor of Design (Bdes)- Industrial Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 279,
+    "name": "Bachelor of Design (Bdes)- Interior Architecture",
+    "duration": "3 years"
+  },
+  {
+    "id": 280,
+    "name": "Bachelor of Design (Bdes)- Knitwear Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 281,
+    "name": "Bachelor of Design (Bdes)- Leather Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 282,
+    "name": "Bachelor of Design (Bdes)- Lifestyle and Accessory Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 283,
+    "name": "Bachelor of Design (Bdes)- Product Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 284,
+    "name": "Bachelor of Design (Bdes)- Textile Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 285,
+    "name": "Bachelor of Design (Bdes)- UX Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 286,
+    "name": "Bachelor of Design (Bdes)- Visual Communication",
+    "duration": "3 years"
+  },
+  {
+    "id": 287,
+    "name": "Bachelor of Design (Bdes)- Interior Design",
+    "duration": "3 years"
+  },
+  {
+    "id": 288,
+    "name": "Bachelor of Hotel Management (BHM)",
+    "duration": "3 years"
+  },
+  {
+    "id": 289,
+    "name": "Bachelor of Hotel Management (BHM)- Hotel Operations Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 290,
+    "name": "Bachelor of Hotel Management (BHM)- Food and Beverage Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 291,
+    "name": "Bachelor of Hotel Management (BHM)- Event Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 292,
+    "name": "Bachelor of Hotel Management (BHM)- Hospitality Marketing",
+    "duration": "3 years"
+  },
+  {
+    "id": 293,
+    "name": "Bachelor of Hotel Management (BHM)- Financial Management for Hospitality",
+    "duration": "3 years"
+  },
+  {
+    "id": 294,
+    "name": "Bachelor of Hotel Management (BHM)- Human Resource Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 295,
+    "name": "Bachelor of Hotel Management (BHM)- Tourism and Travel Management",
+    "duration": "3 years"
+  },
+  {
+    "id": 296,
+    "name": "Bachelor of Hotel Management (BHM)- Culinary Arts",
+    "duration": "3 years"
+  },
+  {
+    "id": 297,
+    "name": "Bachelor of Pharmacy (BPharma)- Pharmaceutical Chemistry",
+    "duration": "3 years"
+  },
+  {
+    "id": 298,
+    "name": "Bachelor of Pharmacy (BPharma)- Pharmacology",
+    "duration": "3 years"
+  },
+  {
+    "id": 299,
+    "name": "Bachelor of Pharmacy (BPharma)- Pharmacognosy",
+    "duration": "3 years"
+  },
+  {
+    "id": 300,
+    "name": "Bachelor of Pharmacy (BPharma)- Pharmaceutics",
+    "duration": "3 years"
+  },
+  {
+    "id": 301,
+    "name": "Bachelor of Pharmacy (BPharma)- Hospital Pharmacy",
+    "duration": "3 years"
+  },
+  {
+    "id": 302,
+    "name": "Bachelor of Pharmacy (BPharma)- Clinical Pharmacy",
+    "duration": "3 years"
+  },
+  {
+    "id": 303,
+    "name": "Bachelor of Pharmacy (BPharma)- Regulatory Affairs",
+    "duration": "3 years"
+  },
+  {
+    "id": 304,
+    "name": "Bachelor of Pharmacy (BPharma)- Industrial Pharmacy",
+    "duration": "3 years"
+  },
+  {
+    "id": 305,
+    "name": "Bachelor of Pharmacy (BPharma)- Community Pharmacy",
+    "duration": "3 years"
+  },
+  {
+    "id": 306,
+    "name": "Bachelor of Pharmacy (BPharma)- Pharmacy Management",
+    "duration": "3 years"
+  }
+]
